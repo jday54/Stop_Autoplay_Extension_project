@@ -1,0 +1,7 @@
+Notes:
+
+Some helpful links:
+- https://github.com/sjmulder/urlrewrite-chrome
+**- https://stackoverflow.com/questions/12065029/redirecting-url-in-a-chrome-extension
+- https://stackoverflow.com/questions/1891738/how-to-modify-current-url-location-in-chrome-via-extensions#:~:text=Changing%20the%20current%20tab's%20URL,http%3A%2F%2Fexample.com'%7D)%3B
+- https://stackoverflow.com/questions/1979583/how-can-i-get-the-url-of-the-current-tab-from-a-google-chrome-extension/14251218#14251218
